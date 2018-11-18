@@ -1,0 +1,28 @@
+ .inner{
+  position: absolute; 
+  width: 50%;
+} 
+header{
+	background:url('image/header.png') repeat-x;
+	display: block;
+	height: 220px;
+	padding: 10px;
+}
+
+h1{
+	background:url('image/logo.png') no-repeat center center;
+	height: 80px;
+	margin: 75px auto;
+	overflow: hidden;
+	text-align: center;
+	text-indent: -99999px;
+}
+
+body{
+  background-color: aquamarine;
+}
+.category{
+  position: relative;
+  float: left;
+  width: 40%;
+}
