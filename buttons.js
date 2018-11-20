@@ -1,4 +1,4 @@
-var all = document.getElementById("all");
+var all = document.getElementById("all1");
 var category1 = document.getElementById("category1");
 var category2 = document.getElementById("category2");
 var category3 = document.getElementById("category3");
@@ -17,7 +17,7 @@ var c4 = document.getElementById("c-4");
         allC.style.visibility= 'visible';
     }
 //function for show to all categroy
-all.addEventListener("click",AllOn());
+all.addEventListener("click",AllOn);
 ///////////////////////////////////////////
 //function for show the categroy1
 category1.addEventListener("click",function(){

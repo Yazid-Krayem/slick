@@ -1,7 +1,7 @@
- .inner{
+ /* .inner{
   position: absolute; 
   width: 50%;
-} 
+}  */
 header{
 	background:url('image/header.png') repeat-x;
 	display: block;
